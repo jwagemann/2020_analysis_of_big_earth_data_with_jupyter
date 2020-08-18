@@ -30,5 +30,7 @@ This lecture has the following outline:
 * [11 - Covid-19 case study - Sentinel-5P anomaly map](11_covid19_case_study_s5p_anomaly_map.ipynb)
 * [12 - Covid-19 case study - Sentinel-5P time-series analysis](12_covid19_case_study_s5p_time_series_analysis.ipynb)
 
+<br>
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img style="float: right" alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
